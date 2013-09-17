@@ -19,6 +19,11 @@ Annotation Tags
 
 This set also includes some annotation tags that are laid over other tags. These are for secondary tags: "Ask", "Tell", "Auction", "Buying", "Selling", and "Trading". They are 45px square PNG images that will be displayed 22.5 points wide and tall on iOS devices. In Awful.app they are displayed in the top left corner. The same naming rules apply as for full-size thread tags.
 
+License
+-------
+
+Please see the included LICENSE.txt for the conditions you can follow to use these thread tags.
+
 
 [Awful.app]: https://github.com/Awful/Awful.app
 [Diabolik900]: http://forums.somethingawful.com/member.php?action=getinfo&userid=113215
