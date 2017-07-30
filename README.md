@@ -30,6 +30,7 @@ Thanks
 Includes tags by:
 
 * [Diabolik900][]
+* [Guavanaut](https://forums.somethingawful.com/member.php?action=getinfo&userid=158364)
 * [The Dave][]
 * [Toshimo](https://forums.somethingawful.com/member.php?action=getinfo&userid=189212)
 * [treasure bear](http://forums.somethingawful.com/member.php?action=getinfo&userid=193961)
