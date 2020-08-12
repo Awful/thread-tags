@@ -31,6 +31,7 @@ Includes tags by:
 
 * [Diabolik900][]
 * [Guavanaut](https://forums.somethingawful.com/member.php?action=getinfo&userid=158364)
+* [scrub lover](https://forums.somethingawful.com/member.php?action=getinfo&userid=77770)
 * [The Dave][]
 * [Toshimo](https://forums.somethingawful.com/member.php?action=getinfo&userid=189212)
 * [treasure bear](http://forums.somethingawful.com/member.php?action=getinfo&userid=193961)

@@ -1,4 +1,4 @@
-Awful Thread Tags (c) by David Ridilla and Jim Murtha.
+Awful Thread Tags (c) by David Ridilla and Jim Murtha and other contributors.
 
 Awful Thread Tags is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
