@@ -35,6 +35,7 @@ Includes tags by:
 * [The Dave][]
 * [Toshimo](https://forums.somethingawful.com/member.php?action=getinfo&userid=189212)
 * [treasure bear](http://forums.somethingawful.com/member.php?action=getinfo&userid=193961)
+* [cruft](https://forums.somethingawful.com/member.php?action=getinfo&userid=126420)
 
 
 [Awful.app]: https://github.com/Awful/Awful.app
