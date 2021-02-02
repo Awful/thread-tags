@@ -4,3 +4,12 @@ Awful Thread Tags is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 A copy of the license is at <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
+
+---
+
+The cat photo in byob-unbyob.png was taken by 
+Luis Miguel Bugallo Sánchez from Santiago de Compostela, Galicia.
+It is licensed under a
+Creative Commons Attribution 2.0 Generic License.
+
+A copy of the license is at <https://creativecommons.org/licenses/by/2.0/>.
